@@ -85,9 +85,12 @@ Full Stack Developer con más de 1 año de experiencia en diversos lenguajes de 
 <a href="https://linkedin.com/in/gonzales-diego" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  Diego Gonzales-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</li>
+	
+<br><br>
+<li>
+<a href="mailto:gonzalesrodriguezdiego@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Diego Gonzales-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
